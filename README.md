@@ -1,7 +1,9 @@
 # React-with-HERE-Map-Image-API
 React with HERE Map Image API, Based on latitude and longitude and can auto detect from browser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Preview](map-api.png)
+
+This project followed [HERE with React - A Location Based TODO App](https://developer.here.com/documentation/map-image/topics/quick-start-show-default-location.html) guide.
 
 ## Available Scripts
 
